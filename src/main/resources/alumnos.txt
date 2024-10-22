@@ -1,0 +1,3 @@
+12345;Juan;Perez;Ingeniería;3
+67890;Ana;Lopez;Medicina;2
+i201915366;Renzo Antonio;Piscoche Chuquipa;Computación Informatica;VI
